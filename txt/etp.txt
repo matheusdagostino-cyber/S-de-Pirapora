@@ -1,0 +1,818 @@
+ESTUDO TÉCNICO PRELIMINAR 
+
+INTRODUÇÃO 
+
+CONCESSÃO ADMINISTRATIVA – MANEJO DE RESÍDUOS SÓLIDOS 
+
+Município de Salto de Pirapora/SP 
+
+INTRODUÇÃO  
+
+O presente Estudo Técnico Preliminar – ETP não se exaure em um 
+
+ato formal de instrução procedimental, tampouco se limita a cumprir exigência burocrática prevista 
+
+na  legislação  de  regência.  Trata-se,  em  realidade,  de  instrumento  estruturante  da  decisão 
+
+administrativa, por meio do qual se explicita,  de forma tecnicamente fundamentada, o juízo de 
+
+racionalidade  que  conduz  à  escolha  do  modelo  de  contratação  mais  eficiente,  adequado  e 
+
+juridicamente sustentável para a prestação dos serviços públicos de manejo de resíduos sólidos 
+
+urbanos no Município de Salto de Pirapora/SP. 
+
+Sua  elaboração  observa,  com  rigor  metodológico,  os  parâmetros 
+
+normativos estabelecidos nos artigos 6º, inciso XX, e 18 da Lei nº 14.133/2021, especialmente no 
+
+que  concerne  à  obrigação  de  demonstrar,  de  maneira  motivada  e  comparativa,  a  solução  mais 
+
+vantajosa sob os prismas técnico, econômico e jurídico. Não se trata, portanto, de mera indicação 
+
+de  alternativa  possível,  mas  de  efetiva  demonstração  de  superioridade  da  solução  adotada,  em 
+
+consonância com os princípios da eficiência, da economicidade e do planejamento, que vinculam 
+
+a atuação administrativa. 
+
+De igual modo, o presente estudo se ancora na disciplina específica 
+
+das  parcerias  público-privadas,  prevista  na  Lei  nº  11.079/2004,  incorporando  seus  elementos 
+
+estruturantes,  notadamente  a  adequada  alocação  de  riscos,  a  sustentabilidade  econômico-
+
+financeira do empreendimento e a indução de desempenho por meio de mecanismos contratuais 
+
+orientados  a  resultados.  Essa  moldura  normativa  não  apenas  autoriza,  mas  exige  que  a 
+
+Administração Pública, diante de objetos de elevada complexidade e intensidade de capital, adote 
+
+modelos contratuais capazes de superar as limitações inerentes às contratações tradicionais. 
+
+O  objeto  ora  examinado  revela,  de  forma  inequívoca,  tais 
+
+características  estruturais.  Trata-se  de  solução  integrada  que  transcende  a  simples  execução 
+
+operacional  de  serviços,  envolvendo  a  concepção,  implantação  e  operação  de  infraestrutura 
+
+essencial, com elevados investimentos iniciais, necessidade de domínio tecnológico específico e 
+
+ 
+ 
+ 
+ 
+ 
+exigência de gestão contínua e eficiente ao longo de extenso horizonte temporal. Esse conjunto de 
+
+fatores, por sua própria natureza, inviabiliza soluções fragmentadas ou de curto prazo, sob pena de 
+
+comprometimento da eficiência global do sistema, aumento de custos e exposição do Município a 
+
+riscos operacionais e regulatórios relevantes. 
+
+Nesse contexto, a abordagem adotada neste ETP afasta, de maneira 
+
+fundamentada, modelos simplificados de contratação, evidenciando que a adequada prestação do 
+
+serviço demanda solução sistêmica, integrada e orientada ao ciclo de vida do empreendimento, 
+
+com  planejamento  de  longo  prazo,  previsibilidade  econômica  e  governança  contratual  robusta. 
+
+Não se trata, portanto, de escolha discricionária em sentido amplo, mas de conclusão técnica que 
+
+decorre da própria natureza do objeto e das exigências normativas que regem o setor. 
+
+1 – DESCRIÇÃO DA NECESSIDADE 
+
+A necessidade que fundamenta a presente contratação não se insere 
+
+no  campo  da  conveniência  administrativa,  mas  decorre  de  imposição  constitucional  e  legal 
+
+inequívoca, que vincula a atuação do Município e restringe o espaço de discricionariedade quanto 
+
+à forma de prestação do serviço. O artigo 30, inciso V, da Constituição Federal atribui ao ente 
+
+municipal  a  titularidade  dos  serviços  públicos  de  interesse  local,  dentre  os  quais  se  insere,  de 
+
+maneira  expressa  e  incontornável,  o  manejo  de  resíduos  sólidos.  Essa  competência  não  é 
+
+meramente  formal,  sendo  densificada  por  um  robusto  arcabouço 
+
+infraconstitucional, 
+
+especialmente pela Lei nº 11.445/2007 e, de forma ainda mais incisiva, pela Lei nº 12.305/2010, 
+
+que institui a Política Nacional de Resíduos Sólidos e redefine os parâmetros de atuação estatal no 
+
+setor. 
+
+A legislação superveniente rompe com o modelo tradicional baseado 
+
+exclusivamente na coleta e disposição final, impondo uma lógica de gestão integrada, orientada 
+
+por  critérios  de  sustentabilidade,  eficiência  econômica  e  responsabilidade  compartilhada,  com 
+
+clara  vedação  à  perpetuação  de  práticas  ambientalmente  inadequadas.  Nesse  novo  cenário 
+
+normativo,  a  atuação  estatal  deixa  de  ser  meramente  operacional  e  passa  a  ser  estruturante, 
+
+exigindo  planejamento,  investimento,  controle  e  adoção  de  tecnologias  compatíveis  com  os 
+
+padrões contemporâneos. 
+
+O diagnóstico técnico evidencia que o Município se encontra em um 
+
+estágio  intermediário  desse  processo  de  transição.  Embora  haja  universalização  da  coleta, 
+
+subsistem limitações estruturais relevantes, notadamente no que se refere à ausência de soluções 
+
+ 
+ 
+ 
+ 
+tecnológicas  mais  avançadas  para  tratamento  e  destinação  final,  bem  como  à  manutenção  de 
+
+modelos operacionais convencionais que não dialogam com as exigências normativas atualmente 
+
+vigentes. Essa defasagem não representa apenas um problema de eficiência administrativa, mas 
+
+configura um descompasso material entre a realidade do serviço prestado e o regime jurídico que 
+
+o disciplina. 
+
+Tal desajuste projeta efeitos jurídicos diretos e relevantes, na medida 
+
+em que insere o Município em uma zona de potencial desconformidade com normas ambientais e 
+
+regulatórias, expondo-o não apenas a riscos de responsabilização administrativa e judicial, mas 
+
+também à deterioração progressiva da eficiência do gasto público. A manutenção do modelo atual 
+
+implica, na prática, a perpetuação de ineficiências estruturais já identificadas, a incapacidade de 
+
+internalizar ganhos tecnológicos indispensáveis à modernização do serviço, o aumento gradual do 
+
+custo marginal da operação — em razão da ausência de escala e de integração sistêmica — e a 
+
+ampliação da exposição do ente público a passivos ambientais e institucionais. 
+
+Nesse contexto, a necessidade administrativa não pode ser reduzida 
+
+à  simples  continuidade  da  prestação  do  serviço  em  seu  formato  atual.  O  que  se  impõe  é  a  sua 
+
+requalificação estrutural, com incorporação de soluções  tecnológicas, reorganização do modelo 
+
+operacional  e  adoção  de  escala  compatível  com  a  sustentabilidade  econômica  e  ambiental  do 
+
+sistema. Trata-se, portanto, de uma necessidade de transformação do serviço, e não de sua mera 
+
+manutenção,  sob  pena  de  consolidação  de  um  modelo  ineficiente,  oneroso  e  juridicamente 
+
+vulnerável. 
+
+2 – PREVISÃO NO PLANEJAMENTO  
+
+A  contratação  em  análise,  embora  não  formalmente  inserida  em 
+
+Plano de Contratações Anual consolidado, revela inequívoca aderência ao planejamento público, 
+
+não apenas sob a ótica formal, mas sobretudo sob o aspecto material, que efetivamente orienta a 
+
+atuação administrativa. Isso porque sua concepção decorre de um conjunto consistente e articulado 
+
+de instrumentos técnicos e normativos previamente desenvolvidos, que evidenciam a maturidade 
+
+do processo decisório e afastam qualquer alegação de improviso ou ausência de planejamento. 
+
+A  modelagem  proposta 
+
+tem  origem  em  estudos 
+
+técnicos 
+
+estruturados, elaborados com base em diagnóstico detalhado da realidade local, os quais foram 
+
+complementados  por  procedimento  de  Manifestação  de  Interesse  da  Iniciativa  Privada  (PMI), 
+
+permitindo  a  ampliação  da  base  informacional  e  o  aprofundamento  das  alternativas  possíveis. 
+
+ 
+ 
+ 
+ 
+Soma-se a isso a plena compatibilidade da solução com o Plano Municipal de Gestão Integrada de 
+
+Resíduos Sólidos, instrumento que materializa a política pública setorial e define as diretrizes de 
+
+médio  e  longo  prazo  para  o  Município,  bem  como  o  alinhamento  com  a  Lei  Complementar 
+
+Municipal nº 17/2025, que confere respaldo normativo à estruturação do modelo adotado. 
+
+Nesse  cenário,  a  eventual  ausência  de  formalização  do  PCA  não 
+
+compromete  a validade do planejamento, na  medida em que este se encontra substancialmente 
+
+demonstrado por  meio de  instrumentos  equivalentes  ou até  mais  robustos  sob o ponto de vista 
+
+técnico. A interpretação contemporânea da Lei nº 14.133/2021, inclusive sob a ótica dos Tribunais 
+
+de Contas, tem privilegiado a análise da efetiva racionalidade da decisão administrativa, e não a 
+
+simples  verificação  formal  de  inserção  em  determinado  instrumento.  O  que  se  exige  é  a 
+
+demonstração de que a contratação decorre de processo estruturado, fundamentado e coerente com 
+
+as políticas públicas existentes — requisito que, no presente caso, se mostra plenamente atendido. 
+
+Assim,  o  planejamento  não  apenas  existe,  como  se  apresenta 
+
+qualificado,  consistente  e  alinhado  às  diretrizes  estratégicas  do  Município,  afastando  qualquer 
+
+dúvida quanto à legitimidade da contratação sob esse aspecto. 
+
+3 – REQUISITOS DA CONTRATAÇÃO  
+
+Os requisitos da contratação em exame não se limitam à execução 
+
+isolada de atividades operacionais, mas envolvem a estruturação de uma solução integrada e de 
+
+elevada complexidade, compatível com a natureza do serviço público a ser prestado. Trata-se de 
+
+objeto que exige, simultaneamente, capacidade de investimento, domínio tecnológico, eficiência 
+
+operacional  e  governança  contratual  robusta,  o  que,  por  si  só,  afasta  qualquer  tentativa  de 
+
+enquadramento em modelos convencionais de contratação. 
+
+A  execução  adequada  do  objeto  pressupõe  a  atuação  de  agente 
+
+econômico dotado de comprovada capacidade técnica para operar sistemas de grande escala, com 
+
+domínio  de  tecnologias  relacionadas  à  coleta,  tratamento  e  destinação  de  resíduos,  bem  como 
+
+aptidão  para  implementar  soluções  que  atendam  aos  padrões  contemporâneos  de  eficiência  e 
+
+sustentabilidade.  Paralelamente,  exige-se  solidez  econômico-financeira  suficiente  para  suportar 
+
+investimentos iniciais expressivos, cuja amortização se dará ao longo do prazo contratual, o que 
+
+demanda estrutura de capital compatível com a magnitude do empreendimento. 
+
+contratual  sofisticado,  orientado  por  indicadores  de  desempenho  e  mecanismos  efetivos  de 
+
+No plano institucional, impõe-se a adoção de modelo de governança 
+
+ 
+ 
+ 
+ 
+monitoramento e regulação, capazes de assegurar não apenas a execução do serviço, mas a sua 
+
+prestação  em  níveis  adequados  de  qualidade  e  eficiência.  Essa  lógica  de  contratação  por 
+
+desempenho  constitui  elemento  central  das  parcerias  público-privadas,  deslocando  o  foco  da 
+
+simples execução para a entrega de resultados mensuráveis. 
+
+Sob  o  aspecto  jurídico,  a  estruturação  mediante  sociedade  de 
+
+propósito específico revela-se não apenas adequada, mas necessária, na medida em que permite a 
+
+segregação patrimonial, a adequada alocação de riscos e a organização eficiente das obrigações 
+
+contratuais,  em  consonância  com  o  regime  das  PPPs.  Trata-se  de  mecanismo  essencial  para 
+
+conferir segurança jurídica ao arranjo contratual e previsibilidade às relações entre as partes. 
+
+Adicionalmente,  a  natureza  do  objeto  impõe  estrita  observância  à 
+
+legislação ambiental, abrangendo desde o licenciamento até a operação de infraestrutura sensível, 
+
+o que exige do contratado capacidade técnica e institucional para atuar em ambiente regulado e 
+
+sujeito a controle rigoroso por parte dos órgãos competentes. 
+
+Nesse  contexto,  evidencia-se  que  a  presente  contratação  não  pode 
+
+ser tratada como contratação ordinária, mas sim como verdadeira delegação estruturada de serviço 
+
+público essencial, cuja execução demanda coordenação sistêmica entre investimento, operação e 
+
+regulação. A ausência de qualquer desses elementos comprometeria não apenas a eficiência do 
+
+serviço, mas a própria conformidade jurídica da atuação administrativa. 
+
+5 – LEVANTAMENTO DE MERCADO  
+
+O levantamento de mercado evidencia, de forma inequívoca, que o 
+
+objeto em análise não se enquadra no paradigma tradicional de prestação de serviços públicos de 
+
+baixa complexidade, tampouco admite soluções simplificadas ou fragmentadas sem prejuízo direto 
+
+à  eficiência  e  à  sustentabilidade  do  sistema.  Trata-se,  ao  contrário,  de  atividade  que  combina 
+
+elevada  intensidade  de  capital,  necessidade  de  domínio  tecnológico  específico  e  dependência 
+
+estrutural  de  escala  operacional,  elementos  que,  em  conjunto,  impõem  abordagem  integrada  e 
+
+planejamento de longo prazo. 
+
+A  execução  adequada  dos  serviços  de  manejo  de  resíduos  sólidos 
+
+urbanos  pressupõe  a  articulação  coordenada  de  múltiplos  subsistemas  —  coleta,  transporte, 
+
+tratamento  e  destinação  final  —  cuja  eficiência  não  pode  ser  analisada  de  forma  isolada.  A 
+
+fragmentação dessas etapas compromete a lógica sistêmica do serviço, impedindo a captura de 
+
+ganhos de eficiência e elevando, de maneira indireta, o custo global da operação. Além disso, a 
+
+ 
+ 
+ 
+ 
+necessidade  de  investimentos  iniciais  relevantes,  especialmente  em  infraestrutura  e  tecnologia, 
+
+afasta  operadores  sem  capacidade  financeira  compatível,  restringindo  o  universo  de  potenciais 
+
+executores àqueles dotados de estrutura empresarial robusta. 
+
+Nesse  contexto,  o  modelo  tradicional  de  contratação  por  meio  de 
+
+múltiplos  contratos  independentes  revela-se  estruturalmente  inadequado.  A  pulverização  de 
+
+responsabilidades tende a gerar sobreposição contratual, fragilização dos mecanismos de controle 
+
+e ausência de accountability integrada, dificultando a aferição de desempenho global do sistema e 
+
+diluindo a responsabilização por eventuais falhas. Soma-se a isso a perda de ganhos de escala e de 
+
+sinergia operacional, que são elementos essenciais para a sustentabilidade econômica do serviço 
+
+no médio e longo prazo. 
+
+Por  outro  lado,  a  estruturação  da  solução  por  meio  de  parceria 
+
+público-privada permite a superação dessas limitações, ao viabilizar a integração completa do ciclo 
+
+operacional sob responsabilidade de um único agente, com incentivos alinhados à eficiência e à 
+
+qualidade  do  serviço  prestado.  A  engenharia  contratual  típica  das  PPPs  possibilita  a  alocação 
+
+racional de riscos entre as partes, transferindo ao parceiro privado aqueles que podem ser por ele 
+
+melhor geridos, ao mesmo tempo em que assegura ao ente público previsibilidade orçamentária e 
+
+controle por meio de indicadores de desempenho. 
+
+Adicionalmente, esse  modelo cria ambiente propício à indução de 
+
+investimentos privados em infraestrutura pública, o que se mostra particularmente relevante em 
+
+setores  que  demandam  elevado  aporte  inicial  e  possuem  horizonte  de  amortização  dilatado.  A 
+
+lógica contratual orientada ao ciclo de vida do empreendimento permite não apenas a execução do 
+
+serviço, mas sua permanente modernização, incorporando ganhos tecnológicos e operacionais ao 
+
+longo do tempo. 
+
+Diante desse cenário, a opção pela parceria público-privada não se 
+
+apresenta  como  mera  alternativa  dentre  outras  possíveis,  mas  como  solução  estruturalmente 
+
+superior  e  mais  aderente  às  características  do  objeto,  sendo  a  única  capaz  de  compatibilizar 
+
+eficiência operacional, sustentabilidade econômica e conformidade jurídica em um ambiente de 
+
+elevada complexidade como o presente. 
+
+5.2 – ANÁLISE DAS SOLUÇÕES  
+
+direta pelo Município não se sustenta como solução adequada, não apenas em razão das limitações 
+
+A  análise  comparativa  das  alternativas  evidencia  que  a  prestação 
+
+ 
+ 
+ 
+ 
+orçamentárias típicas da Administração Pública, mas, sobretudo, por sua incapacidade estrutural 
+
+de  internalizar  inovação  tecnológica,  gerir  eficientemente  investimentos  de  grande  porte  e 
+
+responder, com a necessária agilidade, às exigências regulatórias e ambientais contemporâneas. 
+
+Trata-se de modelo que, embora tradicional, revela-se incompatível com a complexidade atual do 
+
+serviço, na medida em que não dispõe dos instrumentos institucionais e financeiros necessários 
+
+para promover a transformação estrutural exigida pelo setor. 
+
+A  contratação  fragmentada,  por  sua  vez,  ainda  que  formalmente 
+
+admissível sob a ótica jurídica, conduz, na prática, a um arranjo disfuncional. A divisão do objeto 
+
+em  múltiplos  contratos  autônomos  rompe  a  lógica  sistêmica  inerente  ao  manejo  de  resíduos 
+
+sólidos, gerando desarticulação operacional, sobreposição de responsabilidades e fragilidade nos 
+
+mecanismos de controle. A ausência de integração impede a aferição consistente do desempenho 
+
+global do sistema, dificulta a responsabilização por resultados e compromete a eficiência do gasto 
+
+público, produzindo, como consequência direta, elevação de custos e redução da qualidade dos 
+
+serviços prestados. 
+
+Em contraste, a concessão administrativa, estruturada no âmbito de 
+
+parceria público-privada, apresenta-se como solução capaz de superar essas limitações de forma 
+
+consistente. Ao concentrar a execução do serviço em um único ente responsável, com obrigações 
+
+contratuais  claramente  definidas  e  vinculadas  a  indicadores  de  desempenho,  o  modelo  permite 
+
+alinhar incentivos  à  eficiência e à qualidade, promovendo ganhos  operacionais  que não seriam 
+
+alcançáveis em ambiente fragmentado. Além disso, a possibilidade de diluição dos investimentos 
+
+ao  longo  do  prazo  contratual  reduz  a  pressão  sobre  o  orçamento  público  no  curto  prazo,  sem 
+
+comprometer a realização de aportes essenciais à modernização do sistema. 
+
+Nesse  contexto,  a  concessão  administrativa  não  apenas  se  mostra 
+
+mais vantajosa, mas se impõe como solução tecnicamente adequada diante da natureza do objeto, 
+
+sendo a única capaz de compatibilizar integração operacional, eficiência econômica e aderência às 
+
+exigências normativas que regem o setor. 
+
+6 – ESTIMATIVA DO PREÇO  
+
+O  valor  estimado  do  contrato  não  pode  ser  interpretado  de  forma 
+
+simplista como dispêndio imediato ou obrigação financeira concentrada no curto prazo, sob pena 
+
+de grave distorção da análise econômica da contratação. Trata-se, em realidade, da projeção de um 
+
+fluxo  de  contraprestações  ao  longo  de  toda  a  vigência  contratual,  estruturado  para  refletir,  de 
+
+ 
+ 
+ 
+ 
+maneira  equilibrada  e  racional,  a  recomposição  dos  investimentos  realizados,  a  cobertura  dos 
+
+custos operacionais e a remuneração adequada do capital empregado, em consonância com a lógica 
+
+própria das parcerias público-privadas. 
+
+Nesse  modelo,  a  contraprestação  pública  não  representa  apenas  o 
+
+pagamento por serviços prestados, mas incorpora a amortização de ativos essenciais à prestação 
+
+do serviço, cuja implantação exige aportes iniciais significativos e cuja utilidade se estende por 
+
+todo o ciclo contratual. Essa dinâmica afasta a lógica tradicional de contratação por preço unitário 
+
+ou  por  execução  imediata,  exigindo  uma  abordagem  baseada  na  sustentabilidade  econômico-
+
+financeira de longo prazo. 
+
+A correta avaliação do valor estimado demanda, portanto, a adoção 
+
+da metodologia de custo do ciclo de vida (life cycle cost), que considera não apenas o desembolso 
+
+anual,  mas  o  conjunto  de  custos  associados  à  implantação,  operação,  manutenção  e  eventual 
+
+reposição  de  ativos  ao  longo  do  tempo.  A  análise  isolada  de  parcelas  anuais,  dissociada  dessa 
+
+perspectiva  sistêmica,  conduz  inevitavelmente  a  conclusões  equivocadas,  por  desconsiderar 
+
+ganhos de eficiência, diluição de investimentos e redução de custos indiretos que se materializam 
+
+no horizonte contratual. 
+
+Sob  essa  ótica,  o  valor  estimado  revela-se  compatível  com  a 
+
+complexidade do objeto e com o nível de investimento requerido, refletindo não um custo imediato 
+
+elevado, mas uma solução financeiramente estruturada, capaz de viabilizar a prestação eficiente 
+
+do  serviço  sem  impor  sobrecarga  fiscal  concentrada,  ao  mesmo  tempo  em  que  assegura 
+
+previsibilidade orçamentária e equilíbrio contratual. 
+
+7 – DESCRIÇÃO DA SOLUÇÃO  
+
+A  solução  proposta  transcende  a  simples  execução  operacional  de 
+
+serviços, configurando a implantação de um modelo estruturado de governança de longo prazo 
+
+para  o  sistema  municipal  de  manejo  de  resíduos  sólidos.  Não  se  trata  de  mera  contratação  de 
+
+atividades,  mas  da  reorganização  integral  da  forma  pela  qual  o  serviço  público  será  planejado, 
+
+executado, monitorado e continuamente aperfeiçoado ao longo da vigência contratual. 
+
+Nesse  contexto,  a  solução  promove  a  integração  plena  da  cadeia 
+
+operacional, superando a fragmentação historicamente associada ao setor e permitindo que coleta, 
+
+transporte, tratamento e destinação final sejam concebidos e executados de forma coordenada e 
+
+sistêmica. Essa integração não apenas eleva a eficiência operacional, como também viabiliza  a 
+
+ 
+ 
+ 
+ 
+incorporação  de  tecnologias  de  tratamento  mais  avançadas,  compatíveis  com  as  exigências 
+
+ambientais contemporâneas e com os objetivos de redução de rejeitos e valorização de resíduos. 
+
+A estruturação do modelo contempla, ainda, a constituição de ativos 
+
+vinculados  à  prestação  do  serviço,  cuja  natureza  reversível  assegura  sua  incorporação  ao 
+
+patrimônio  público  ao  término  do  contrato,  preservando  o  interesse  coletivo  e  garantindo  a 
+
+continuidade do serviço em bases mais qualificadas. Paralelamente, o arranjo contratual incorpora 
+
+mecanismos de regulação e controle de desempenho, com indicadores objetivos e mensuráveis, 
+
+deslocando o eixo da contratação da simples execução para a efetiva entrega de resultados. 
+
+Sob essa perspectiva, a solução representa uma inflexão estrutural na 
+
+prestação do serviço público, substituindo um modelo predominantemente reativo, marcado pela 
+
+atuação pontual e pela baixa previsibilidade, por um modelo planejado, integrado e orientado a 
+
+desempenho. Trata-se, portanto, de uma reestruturação institucional do serviço, capaz de alinhar 
+
+eficiência operacional, sustentabilidade ambiental e racionalidade econômica em um único arranjo 
+
+contratual. 
+
+8 – PARCELAMENTO 
+
+No caso concreto, o parcelamento da contratação não se apresenta 
+
+apenas como tecnicamente inadequado, mas revela-se juridicamente incompatível com o princípio 
+
+da eficiência e com a própria natureza do objeto a ser contratado. A diretriz geral de parcelamento 
+
+prevista na legislação não possui caráter absoluto, devendo ser afastada sempre que a divisão do 
+
+objeto  comprometer  o  resultado  pretendido  pela  Administração,  o  que  se  verifica  de  forma 
+
+evidente na presente hipótese. 
+
+A  estrutura  do  serviço  de  manejo  de  resíduos  sólidos  urbanos 
+
+pressupõe integração plena entre suas diversas etapas — coleta, transporte, tratamento e destinação 
+
+final — de modo que sua fragmentação comprometeria a lógica sistêmica que sustenta a eficiência 
+
+operacional.  A  cisão  contratual  impediria  a  adequada  alocação  de  riscos,  elemento  central  na 
+
+modelagem  de  parcerias  público-privadas,  na  medida  em  que  diluiria  responsabilidades  e 
+
+dificultaria a identificação precisa de eventuais falhas na prestação do serviço. 
+
+Além disso, o parcelamento inviabilizaria a obtenção de ganhos de 
+
+escala,  fundamentais  para  a  sustentabilidade  econômica  do  modelo,  elevando  custos  indiretos, 
+
+reduzindo eficiência e comprometendo a racionalidade global da contratação. A multiplicidade de 
+
+ 
+ 
+ 
+ 
+contratos autônomos introduziria complexidade adicional na gestão administrativa, ampliando o 
+
+risco de descoordenação operacional e fragilizando os mecanismos de controle e fiscalização. 
+
+Nessas  condições,  a  adoção  do  parcelamento  representaria,  na 
+
+prática, uma regressão ao modelo fragmentado já identificado como estruturalmente ineficiente ao 
+
+longo deste estudo, contrariando não apenas a lógica técnica da solução proposta, mas também os 
+
+princípios que regem a atuação administrativa. A decisão de não parcelar o objeto, portanto, não 
+
+decorre de  conveniência,  mas de necessidade técnica e jurídica, indispensável para assegurar a 
+
+efetividade da contratação e a adequada prestação do serviço público. 
+
+12 – IMPACTOS AMBIENTAIS 
+
+A  contratação  em  análise  não  se  limita  a  produzir  efeitos 
+
+ambientalmente neutros, mas se qualifica como instrumento de geração de externalidades positivas 
+
+relevantes,  diretamente  alinhadas  às  diretrizes  da  Política  Nacional  de  Resíduos  Sólidos  e  às 
+
+exigências  contemporâneas  de  sustentabilidade  urbana.  Ao  estruturar  uma  solução  integrada  e 
+
+tecnologicamente  adequada,  o  modelo  proposto  permite  a  progressiva  redução  de  passivos 
+
+ambientais historicamente associados à gestão inadequada de resíduos, ao mesmo tempo em que 
+
+induz práticas mais eficientes de reaproveitamento e valorização de materiais, com impacto direto 
+
+na diminuição do volume de rejeitos destinados a disposição final. 
+
+A  reorganização  do  sistema,  com  incorporação  de  tecnologias  de 
+
+tratamento e melhoria das condições operacionais, assegura maior aderência às exigências legais 
+
+aplicáveis  à  destinação  final  ambientalmente  adequada,  reduzindo  riscos  de  contaminação, 
+
+degradação  ambiental  e  descumprimento  de  normas  regulatórias.  Paralelamente,  os  efeitos 
+
+positivos se projetam sobre indicadores sanitários e urbanos, na medida em que a adequada gestão 
+
+dos resíduos contribui para a melhoria das condições de saúde pública, da qualidade ambiental e 
+
+da organização do espaço urbano. 
+
+Sob outra perspectiva, a não implementação da solução proposta não 
+
+representa cenário neutro, mas implica a manutenção de um modelo que, além de estruturalmente 
+
+ineficiente, apresenta elevado potencial de incompatibilidade com a legislação ambiental vigente. 
+
+Tal situação expõe o Município a riscos concretos de responsabilização administrativa, civil e até 
+
+mesmo judicial, além de comprometer  a evolução do sistema em direção aos  padrões  exigidos 
+
+pelas políticas públicas nacionais. 
+
+ 
+ 
+ 
+ 
+Nesse contexto, a contratação assume papel não apenas operacional, 
+
+mas também preventivo e estruturante, funcionando como instrumento de adequação ambiental 
+
+progressiva e de mitigação de riscos institucionais, ao alinhar a prestação do serviço às exigências 
+
+legais e aos princípios da sustentabilidade e da precaução. 
+
+13 – VIABILIDADE  
+
+A  viabilidade  da  contratação  revela-se  inequívoca  e  decorre  de 
+
+análise  convergente  sob  os  aspectos  técnico,  econômico,  jurídico  e  ambiental,  não  havendo 
+
+qualquer  elemento  que  comprometa  a  consistência  ou  a  legitimidade  da  solução  proposta.  Ao 
+
+contrário, todos os vetores relevantes apontam, de forma alinhada, para a adequação do modelo 
+
+estruturado,  evidenciando  que  a  parceria  público-privada,  na  modalidade  de  concessão 
+
+administrativa, constitui o instrumento mais apto a viabilizar a prestação eficiente do serviço. 
+
+Sob  o  enfoque  técnico,  a  solução  apresenta  plena  compatibilidade 
+
+com  a  complexidade  do  objeto,  na  medida  em  que  incorpora  abordagem  integrada,  domínio 
+
+tecnológico e capacidade operacional adequados às exigências contemporâneas do setor. No plano 
+
+econômico, a modelagem permite a racionalização do custo ao longo do tempo, mediante diluição 
+
+dos  investimentos  e  estruturação  de  fluxo  financeiro  compatível  com  a  capacidade  fiscal  do 
+
+Município, afastando a necessidade de dispêndios concentrados e garantindo maior previsibilidade 
+
+orçamentária. 
+
+Do ponto de vista jurídico, a contratação encontra sólido amparo nas 
+
+Leis nº 11.079/2004 e nº 14.133/2021, estando estruturada em conformidade com os princípios da 
+
+legalidade, eficiência, planejamento e sustentabilidade, além de observar os requisitos específicos 
+
+aplicáveis às parcerias público-privadas, especialmente no que se refere à alocação de riscos e à 
+
+definição de mecanismos de controle e desempenho. No âmbito ambiental, a solução se mostra 
+
+plenamente aderente às diretrizes da Política Nacional de Resíduos Sólidos, contribuindo para a 
+
+superação de práticas inadequadas e para a consolidação de um modelo sustentável de gestão. 
+
+Importa  destacar  que  a  não  adoção  do  modelo  proposto  não 
+
+configura alternativa neutra, mas representa, em termos concretos, a perpetuação de um cenário 
+
+estruturalmente  ineficiente,  economicamente  oneroso  e  potencialmente  desconforme  com  o 
+
+ordenamento jurídico vigente. A inércia administrativa, nesse contexto, não apenas compromete a 
+
+qualidade da prestação do serviço, como amplia a exposição do Município a riscos institucionais 
+
+e jurídicos relevantes. 
+
+ 
+ 
+ 
+ 
+Diante  desse  conjunto  de  elementos,  a  contratação  não  apenas  se 
+
+mostra  viável,  mas  necessária,  constituindo  medida  indispensável  para  assegurar  a  adequada 
+
+prestação do serviço público, em conformidade com os parâmetros legais e com as exigências de 
+
+eficiência e sustentabilidade que regem a atuação administrativa contemporânea. 
+
+CONCLUSÃO  
+
+A concessão administrativa, tal como estruturada, não se apresenta 
+
+apenas  como  a  alternativa  mais  vantajosa  entre  opções  disponíveis,  mas  como  a  única  solução 
+
+capaz  de,  de  forma  simultânea  e  consistente,  atender  às  exigências  legais  aplicáveis,  assegurar 
+
+eficiência  operacional,  viabilizar  os  investimentos  indispensáveis  à  modernização  do  sistema  e 
+
+garantir a sustentabilidade ambiental do serviço no longo prazo. A convergência desses fatores 
+
+não  é  circunstancial,  mas  decorre  diretamente  da  natureza  do  objeto  e  das  condicionantes 
+
+normativas e técnicas que o regem. 
+
+A  análise  desenvolvida  ao  longo  deste  Estudo  Técnico  Preliminar 
+
+evidencia  que  as  demais  alternativas  examinadas  ou  se  mostram  estruturalmente  incapazes  de 
+
+atender  às  exigências  contemporâneas  do  setor,  ou  implicam  riscos  relevantes  de  ineficiência, 
+
+descontinuidade e desconformidade jurídica. Nesse contexto, a solução proposta não resulta de 
+
+escolha  discricionária  em  sentido  amplo,  mas  de  um  processo  decisório  orientado  por  critérios 
+
+técnicos objetivos, que conduzem, de forma consistente, à sua adoção como medida necessária. 
+
+Importa  destacar  que  a  modelagem  adotada  foi  precedida  de 
+
+mecanismos  formais  de  participação  e  controle  social,  notadamente  a  realização  de  audiência 
+
+pública  e  consulta  pública,  por  meio  das  quais  foram  asseguradas  transparência,  publicidade  e 
+
+oportunidade  efetiva  de  manifestação  por  parte  da  sociedade  e  dos  agentes  de  mercado.  Tais 
+
+instrumentos não apenas atendem às exigências legais aplicáveis, mas reforçam a legitimidade da 
+
+solução  adotada,  evidenciando  que  o  processo  decisório  foi  construído  de  forma  aberta, 
+
+participativa e tecnicamente fundamentada. 
+
+A Administração Pública, ao exercer sua função de planejamento e 
+
+gestão, não está autorizada a optar por modelos sabidamente ineficientes ou incompatíveis com o 
+
+ordenamento jurídico vigente, sob pena de violação aos princípios da eficiência, da economicidade 
+
+e  da  legalidade.  Assim,  a  decisão  pela  concessão  administrativa  não  traduz  mera  preferência 
+
+administrativa,  mas  expressão  de  um  juízo  de  inevitabilidade  racional,  fundado  na  melhor 
+
+evidência técnica disponível, devidamente submetida ao escrutínio público. 
+
+ 
+ 
+ 
+Diante  desse  cenário,  conclui-se  que  a  implementação  da  solução 
+
+proposta não apenas se impõe como juridicamente legítima, mas como medida indispensável à 
+
+superação  das  limitações  estruturais  atualmente  existentes,  garantindo  ao  Município  condições 
+
+efetivas de cumprir suas obrigações legais e de promover um modelo de gestão de resíduos sólidos 
+
+compatível com os padrões contemporâneos de eficiência, sustentabilidade e governança pública. 
+
+Edson Thiago Santoro Alves 
+
+Secretário de Meio Ambiente 
+
+Cristiane Alves dos Santos Rosa 
+
+Diretora da Secretaria de Meio Ambiente 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
